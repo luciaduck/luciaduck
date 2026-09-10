@@ -19,7 +19,7 @@ You can either contact me through the [contact page](https://ilquadernodellaprof
 - Testing a Ruby parser for Lotus legacy formats
 - Developing a small SSG
 
-### **License ⚖️**
+### ⚖️ **License**
 
 - [duckline](https://github.com/luciaduck/duckline/) [Go backend (**AGPL**)]: stateless interactivities with anonymous by design statistics
 - [tinymustelid](https://github.com/luciaduck/tinymustelid/) [Go (**MPL**)]: duckline's CLI
