@@ -23,7 +23,7 @@ You can either contact me through the [contact page](https://ilquadernodellaprof
 
 - [duckline](https://github.com/luciaduck/duckline/) (Go / **AGPL**): stateless interactivities backend with anonymous by design statistics
 - [tinymustelid](https://github.com/luciaduck/tinymustelid/) (Go / **MPL**): duckline's CLI
-- [my educational **content**](https://ilquadernodellaprof.it/) (coffee and care / **CC BY-NC-SA License**), available on my site.
+- [my educational **content**](https://ilquadernodellaprof.it/) (coffee and care / **CC BY-NC-SA**), available on my site.
 
 ### 🐣 **Story of an ugly duckling**
 
