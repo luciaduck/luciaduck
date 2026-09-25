@@ -4,7 +4,7 @@ My name is Lucia and I'm a self-taught DevOps Practitioner powered by Middle Sch
 
 I'm specialised in a11y and GDPR. I teach LA/SS.
 
-I enjoy **11ty**, **Go**, **Ruby**, **CI/CD pipelines**, **ducks**, and **daisies**. Not in this order.
+I enjoy **11ty**, **Go**, **CI/CD pipelines**, **ducks**, and **daisies**. Not in this order.
 
 
 ### 📬 **Site and contacts**
