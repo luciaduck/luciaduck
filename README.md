@@ -1,6 +1,6 @@
 # My name is Lucia 🐣🌼
 
-Full stack web developer and **Go** practitioner with a background in grade school education.
+Full stack web developer with a background in grade school education.
 
 My web work focuses on **a11y** and **GDPR** compliance, driven by privacy-first and *universal design* principles.
 
@@ -36,7 +36,7 @@ var Lucia = ThisIsMe{
 	Role:   "Learning-on-the-Go developer",
 	Stack:  []string{"Go", "11ty", "WSL"},
 	Focus:  []string{"a11y", "privacy", "CLIs"},
-	Learns: []string{"Unix", "Gen Alpha language"},
+	Learns: []string{"C#", "BSD", "Gen Alpha language"},
 	Likes:  []string{"daisies", "ducks"},
 	Quacks: true,
 }
