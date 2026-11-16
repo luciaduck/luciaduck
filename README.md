@@ -6,7 +6,7 @@ I learned programming in the AI era, so I write solid specs, distrust the output
 
 I aim to be accessible, inclusive and I value privacy. A lot.
 
-Reach me at `luciacapurri AT` [ilquadernodellaprof.it](https://ilquadernodellaprof.it).
+Reach me at `luciacapurri AT ilquadernodellaprof.it`.
 
 ## This is real, this is me
 
