@@ -10,15 +10,15 @@ Reach me at `luciacapurri AT` [ilquadernodellaprof.it](https://ilquadernodellapr
 
 ## This is real, this is me
 
-I fell in love with an HP Pavilion in 2005 the moment I broke Windows. That day my dad learnt that giving a kid admin powers was dangerous and put me in front of an OpenOffice sheet on a brand new Debian partition. I used it to cheat on maths homework. *I wasn't exactly the cool girl.*
+I fell in love with an HP Pavilion in 2005 the moment I broke Windows. That day my dad learned that giving a kid admin powers was dangerous and put me in front of an OpenOffice sheet on a brand new Debian partition. I used it to cheat on maths homework. *I wasn't exactly the cool girl.*
 
 I like old stuff! My first self-coded website had a nice *frameset* layout... in 2008.
 
 I've resurrected a 1996 laptop with no HDD, troubleshooting `AUTOEXEC.BAT` just because I wanted to run Lotus Symphony. In vain. I ended up installing 123elf in the WSL.
 
-I'm self-taught and I will make mistakes.
+I'm self-taught and always learning.
 
-Tell me when you find one, but be nice: my avatar has a beak!
+Found a bug? Open an issue! Be nice: my avatar has a beak!
 
 Ciao!
 
