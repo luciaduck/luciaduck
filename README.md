@@ -1,6 +1,6 @@
 # My name is Lucia 🐣🌼
 
-Tech writer and developer, with a teaching background. MA in History of Science & Technology.
+Tech writer and analyst, with a teaching background. MA in History of Science & Technology.
 
 I learned programming in the AI era, so I write solid specs, distrust the output and over-test things. *(`go test -fuzz=Sanity`)*
 
@@ -30,18 +30,18 @@ type ThisIsMe struct {
 	Role   string
 	Stack  []string
 	Focus  []string
-	Learns []string
+	Quirks []string
 	Likes  []string
 	Quacks bool
 }
 
 var Lucia = ThisIsMe{
 	Name:   "Lucia",
-	Role:   "Tech writer, developer",
-	Stack:  []string{"Go", "11ty", "archlinux WSL"},
-	Focus:  []string{"a11y", "privacy", "CLIs"},
-	Learns: []string{"Installing Fedora on metal", "Gen Alpha language"},
-	Likes:  []string{"daisies", "ducks"},
+	Role:   "command line tinkerer",
+	Stack:  []string{"Go", "HTML", "Sass", "11ty", "archlinux (WSL)"},
+	Focus:  []string{"tests", "docs", "a11y", "privacy", "CLIs"},
+	Quirks: []string{"learns too many things, gets distracted easily, possibly crazy"},
+	Likes:  []string{"daisies", "ducks", "children", "software"},
 	Quacks: true,
 }
 ```
