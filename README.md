@@ -41,7 +41,7 @@ var Lucia = ThisIsMe{
 	Stack:  []string{"Go", "HTML", "Sass", "11ty", "archlinux (WSL)"},
 	Focus:  []string{"tests", "docs", "a11y", "privacy", "CLIs"},
 	Quirks: []string{"learns too many things, gets distracted easily, possibly crazy"},
-	Likes:  []string{"daisies", "ducks", "children", "software"},
+	Likes:  []string{"daisies", "ducks", "kids", "software"},
 	Quacks: true,
 }
 ```
